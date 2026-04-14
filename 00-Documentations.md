@@ -2,3 +2,4 @@
 - https://platform.openai.com/docs/api-reference/responses
 - https://developers.openai.com/api/reference/resources/responses
 - https://developers.openai.com/api/reference/responses/overview
+- https://swagger.io/docs/#
