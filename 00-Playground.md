@@ -1,3 +1,4 @@
 - https://developers.strava.com/playground/
 - https://www.oauth.com/playground/
 - https://developers.google.com/oauthplayground/
+- https://hygraph.com/graphql-playground
