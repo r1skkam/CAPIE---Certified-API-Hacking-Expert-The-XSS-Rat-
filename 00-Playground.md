@@ -2,3 +2,4 @@
 - https://www.oauth.com/playground/
 - https://developers.google.com/oauthplayground/
 - https://hygraph.com/graphql-playground
+- https://petstore.swagger.io/
