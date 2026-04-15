@@ -3,3 +3,4 @@
 - https://developers.openai.com/api/reference/resources/responses
 - https://developers.openai.com/api/reference/responses/overview
 - https://swagger.io/docs/#
+- https://docs.stripe.com/api
