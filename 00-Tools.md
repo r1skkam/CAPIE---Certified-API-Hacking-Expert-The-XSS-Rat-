@@ -17,3 +17,5 @@
     ```
    pip install requests
     ```
+
+<img width="1918" height="502" alt="requests" src="https://github.com/user-attachments/assets/3b39aba7-138f-418b-a207-9e2eab8764fe" />
